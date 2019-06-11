@@ -1,4 +1,4 @@
-# Recruitment-Landing-Page-
+# Landingpage for a Recruitment Company
 An interactive Website used in e-mails made by **HTML , CSS  &amp;  jQuery** 
 # Arabic 
 **Phone**
