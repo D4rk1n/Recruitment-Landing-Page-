@@ -1,0 +1,341 @@
+@charset "utf-8";
+
+body{
+
+background: linear-gradient	(to bottom, #E0E1E3, #FFFFFF );
+	}
+header {
+
+	text-align: center;
+
+	display: block;
+
+}
+header .socialbar {
+	
+	background:#8E99A8;
+	
+	display: block;
+
+	margin-top: 0px;
+
+		padding-bottom:5px;
+	padding-top:5px;
+	clear:both;
+
+}
+header .socialbar .socialnav {
+	display: inline-block;
+	margin-right: 23px
+}
+
+header .socialbar .socialnav img:hover {
+	    opacity:0.5;
+}
+header .header img {
+	width:350px;
+	margin-bottom:0px;
+	float:left;
+	
+	margin-left:25px;
+	
+	
+	
+}
+header .side img {
+	width:80px;
+	margin-bottom:0px;
+	float:right;
+	
+	margin-right:100px;
+	
+	
+	
+}	
+ .download{
+	 margin-top:50px;
+	text-align:center;}
+.button {background-color: #8E99A8;
+
+border-radius:25px;
+	display: inline-block;
+
+	text-align: center;
+
+	margin: auto;
+width:250px;
+	padding: 25px;
+
+	cursor: pointer;
+}
+.button a {
+
+	font-family: 'Montserrat', sans-serif;
+
+	color: rgba(255,255,255,1.00);
+
+	font-size: 14px;
+	
+	text-align:center;
+
+	font-weight: 400;
+
+	line-height: 18px;
+
+	text-decoration: none;
+
+}
+.button:hover {
+
+opacity:0.5;
+}
+.contenten {
+	  width: 950px;
+	  font-size:18px;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid #dddddd;
+  margin: 30px auto 0 auto;
+  background: # ;
+
+  text-align:left;
+ 
+  
+}
+.content {
+	  width: 950px;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid #dddddd;
+  margin: 30px auto 0 auto;
+  background: # ;
+  text-align:right;
+}
+h3 , h4 {
+	color:#8E99A8;
+	}
+	.lang a{
+		font-family: 'Montserrat', sans-serif;
+		border-radius:25px;
+	background: #8E99A8;
+	padding:0px 25px 0px 25px;
+	display:inline-block;
+	float:right;
+	font-size: 22px;
+    margin-right:10px;
+	margin-top:10px;
+color:#FFFFFF;
+text-decoration:none
+;
+text-align:center;
+		}
+		.lang:hover{
+			opacity:0.5;
+			
+			}
+
+@media (min-width: 285px) and (max-width: 480px){
+
+header {
+
+	text-align: center;
+align-content:center;
+	display: block;
+
+}
+header .socialbar {
+	
+	background:#8E99A8;
+	
+	display: block;
+
+	clear:both;
+
+}
+header .socialbar .socialnav {
+	display: inline-block;
+	
+	
+	margin-right: 15px ;
+		
+}
+.socialnav img{
+	width:50px
+	}
+header .socialbar .socialnav img:hover {
+	    opacity:0.5;
+}
+header .header img {
+	width:150px;
+	float:none;	
+}
+header .side img {
+	width:80px;
+	margin-bottom:0px;
+	float:right;
+	
+	margin-right:100px;
+	display:none;
+	
+	
+}	
+ .download{
+	 margin-top:50px;
+	text-align:center;}
+.button {background-color: #8E99A8;
+
+	display: inline-block;
+
+	text-align: center;
+
+	margin: auto;
+width:250px;
+	padding: 25px;
+
+	cursor: pointer;
+}
+.button a {
+
+	font-family: 'Montserrat', sans-serif;
+
+	color: rgba(255,255,255,1.00);
+
+	font-size: 14px;
+	
+	text-align:center;
+
+	font-weight: 400;
+
+	line-height: 18px;
+
+	text-decoration: none;
+
+}
+.button:hover {
+
+opacity:0.5;
+}
+.content {
+	  width:auto;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid #dddddd;
+  margin: 30px auto 0 auto;
+  background: # ;
+  text-align:left;
+}
+h3{
+	color:#8E99A8;
+	}
+	.lang a{
+		font-family: 'Montserrat', sans-serif;
+	background: #8E99A8;
+	padding:0px 25px 0px 25px;
+	display:inline-block;
+	float:right;
+	font-size: 22px;
+    margin-right:10px;
+	margin-top:10px;
+color:#FFFFFF;
+text-decoration:none
+;
+text-align:center;
+		}
+}
+
+@media (min-width: 480px) and (max-width: 750px){
+	header {
+
+	text-align: center;
+
+	display: block;
+
+}
+header .socialbar {
+	
+	background:#8E99A8;
+	
+	display: block;
+
+	margin-top: 0px;
+
+
+	clear:both;
+
+}
+header .socialbar .socialnav {
+	display: inline-block;
+	margin-right: 15px
+}
+header .socialbar .socialnav img:hover {
+	    opacity:0.5;
+}
+.socialnav img{
+	width:60px
+	}
+
+header .header img {
+	width:220px;
+	margin-bottom:0px;
+	float:left;
+	
+	margin-left:25px;
+	
+	
+	
+}
+header .side img {
+	width:50px;
+	margin-bottom:0px;
+	float:right;
+	
+	margin-right:50px;
+	
+	
+	
+}	
+ .download{
+	 margin-top:50px;
+	text-align:center;}
+.button {background-color: #8E99A8;
+
+	display: inline-block;
+
+	text-align: center;
+
+	margin: auto;
+width:250px;
+	padding: 25px;
+
+	cursor: pointer;
+}
+.button a {
+
+	font-family: 'Montserrat', sans-serif;
+
+	color: rgba(255,255,255,1.00);
+
+	font-size: 14px;
+	
+	text-align:center;
+
+	font-weight: 400;
+
+	line-height: 18px;
+
+	text-decoration: none;
+
+}
+.button:hover {
+
+opacity:0.5;
+}
+.content {
+	  width:auto;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid #dddddd;
+  margin: 30px auto 0 auto;
+  background: # ;
+  text-align:left;
+}
+h3{
+	color:#8E99A8;
+	}
+}
